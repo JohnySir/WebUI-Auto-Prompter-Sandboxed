@@ -1,5 +1,7 @@
 # WebUI Auto Prompter (Sandboxed)
 
+![UI-SS](https://raw.githubusercontent.com/JohnySir/WebUI-Auto-Prompter-Sandboxed-/refs/heads/main/assets/UI.png)
+
 An automated, terminal-driven batch prompter for **Stable Diffusion WebUI (Forge Neo / Classic / A1111)**. It feeds prompt queues directly into the web interface through a dedicated, Playwright-controlled sandbox browser over the Chrome DevTools Protocol (CDP).
 
 ---
