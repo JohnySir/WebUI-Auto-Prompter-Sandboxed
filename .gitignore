@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / testing cache
+.pytest_cache/
+
+# Sandboxed browser profile (runtime generated browser session)
+.sandbox-profile/
+
+# Environments
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
